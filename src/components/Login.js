@@ -53,7 +53,7 @@ function Login() {
             <div className="rounded-xl p-8 w-full max-w-md shadow-xl" style={{ background: 'rgba(255, 255, 255, 0.9)', backdropFilter: 'blur(10px)', WebkitBackdropFilter: 'blur(10px)', border: '1px solid rgba(255, 255, 255, 0.2)'}}> {/* glass-card */}
                 <div className="text-center mb-8">
                     <div className="flex justify-center mb-4">
-                        <img src="https://iiitkota.ac.in/static/media/logo.2959054161ad35ae85c5.png" alt="IIIT Kota Logo" className="h-16 w-auto" />
+                        <img src="/iiitkota.webp" alt="IIIT Kota Logo" className="h-16 w-auto" />
                     </div>
                     <h1 className="text-3xl font-bold text-gray-800">IIIT Kota</h1>
                     <p className="text-gray-600 mt-2">Campus Presence System</p>
